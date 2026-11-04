@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 hello world 2
+=======
+HELLO WORLD 3
+>>>>>>> brach1
